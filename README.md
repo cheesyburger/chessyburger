@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @employeetee
+- 👋 Hi, I’m @chessyburger
 - 👀 I’m interested in building stuff, reading and gaming. 
 - 🌱 I’m currently learning GitHub, hacking, AWS
 - 💞️ I’m looking to collaborate on ...
